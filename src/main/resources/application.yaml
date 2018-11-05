@@ -1,0 +1,9 @@
+datastore:
+  kind: ivan-test
+
+symbols: AAPL, FB
+pollingInterval: 60000
+
+logging:
+  level:
+    com.andersen.peakwork: debug
